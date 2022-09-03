@@ -1,4 +1,4 @@
-//═══════════════════════════════════════════════════════//
+I'm//═══════════════════════════════════════════════════════//
 //
 //                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
@@ -24,10 +24,10 @@ global.premium = ['263787778679']
 global.ownernomer = '263787778679'
 global.ownername = 'Youngtips'
 global.botname = 'Viper'
-global.footer = '©NexusNwInc.'
+global.footer = '©youngtips'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'Zim, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/youngtips/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Viper'
 global.author = 'Youngtips'
